@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'us-cdbr-iron-east-05.cleardb.net';
+$config['base_url'] = 'mysql://bd7b387c7dafce:ff7d9f8c@us-cdbr-iron-east-05.cleardb.net/heroku_7ac061b2f837317?reconnect=true';
 
 /*
 |--------------------------------------------------------------------------
