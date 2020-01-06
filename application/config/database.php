@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'us-cdbr-iron-east-05.cleardb.net',
 	'username' => 'bd7b387c7dafce',
 	'password' => 'ff7d9f8c',
 	'database' => 'heroku_7ac061b2f837317',
