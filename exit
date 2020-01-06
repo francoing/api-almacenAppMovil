@@ -1,0 +1,23 @@
+[33mcommit e3e8aeab40857f69d40ffbac86605ada32bd66c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: francoing <franco.montti.19@gmail.com>
+Date:   Mon Jan 6 00:07:05 2020 -0300
+
+    composer.lock sacado de git ignore
+
+[33mcommit 3b66bc061e45e06848b6b7a5f30304136943b4b3[m
+Author: francoing <franco.montti.19@gmail.com>
+Date:   Sun Jan 5 23:55:59 2020 -0300
+
+    Modificado config,index.php,config.php
+
+[33mcommit b41ad5144fd2b5c9d26cd9c7fc3bc1b939c1850b[m
+Author: francoing <franco.montti.19@gmail.com>
+Date:   Sun Jan 5 11:29:28 2020 -0300
+
+    config.php
+
+[33mcommit 50dcc45e1b8542b17494997c8c07d696ceaedae4[m
+Author: francoing <franco.montti.19@gmail.com>
+Date:   Sun Jan 5 09:54:26 2020 -0300
+
+    Archivo procfile creado,database y config configurados
