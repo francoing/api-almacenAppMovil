@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config['base_url'] = 'https://almacen-api.herokuapp.com/';
 //$config['base_url'] = 'http://localhost';
+$config['base_url'] = 'http://192.168.1.22/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +225,7 @@ $config['allow_get_array'] = TRUE;
 | your log files will fill up very fast.
 |
 */
-$config['log_threshold'] = 0;
+$config['log_threshold'] = 1;
 
 /*
 |--------------------------------------------------------------------------

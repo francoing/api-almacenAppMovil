@@ -75,13 +75,17 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	
+	/*
 	'hostname' => 'us-cdbr-iron-east-05.cleardb.net',
 	'username' => 'bd7b387c7dafce',
 	'password' => 'ff7d9f8c',
-	'database' => 'heroku_7ac061b2f837317',
-	/*
+	'database' => 'heroku_7ac061b2f837317',*/
+	
 	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'tienda_db',
+	/*'hostname' => '192.168.1.22',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'tienda_db',*/
